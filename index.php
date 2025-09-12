@@ -17,9 +17,9 @@ function sayHello($name) {
 	</head>
 	<body>
 		<?php 
-		
+		 
 		sayHello('remote world');
-			  
+			
 		phpinfo(); 
 			
 		?>
